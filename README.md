@@ -43,19 +43,6 @@ I'm open to collaborating on:
 ### 📫 How to Reach Me
 - 📧 Email: [kshirsagarprachi73@gmail.com](mailto:kshirsagarprachi73@gmail.com)
 - 🔗 GitHub: [@KPrachiiee](https://github.com/KPrachiiee)
-- 💼 LinkedIn: *(Add your link here when ready)*
+- 💼 LinkedIn: [prachi-kshirsagar](https://www.linkedin.com/in/prachi-kshirsagar)
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KPrachiiee&show_icons=true&theme=radical" alt="Prachi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPrachiiee&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KPrachiiee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
