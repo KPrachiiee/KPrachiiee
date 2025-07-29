@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I'm a 3rd-year B.Tech CSE student at **G H Raisoni University, Amravati**
+- 🎓 I'm a 4th-year B.Tech CSE student at **G H Raisoni University, Amravati**
 - 💻 I love building intuitive and scalable web applications
 - 🌐 Skilled in **Java, C, C++, HTML, CSS, JavaScript, SQL, MongoDB**
 - ⚙️ Experienced with **Node.js, Express.js, React.js, EJS, Mongoose**, and REST APIs
