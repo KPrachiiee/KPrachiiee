@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Currently Learning
-- 🧩 Advanced Backend with **Node.js + MySQL**
+- 🧩 Backend with **Node.js + MySQL**
 - 🧱 Full-Stack RESTful Architecture & MVC Pattern
 - 📚 DSA in Java (for optimized coding & interviews)
 - 🤖 Basics of **Machine Learning**
